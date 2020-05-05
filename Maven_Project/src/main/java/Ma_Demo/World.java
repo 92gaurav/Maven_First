@@ -5,6 +5,7 @@ public class World {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Maven");
+		System.out.println("maven maven");
 
 	}
 
